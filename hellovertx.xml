@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="hellovertx">
+
+  <target name="copyReqFiles" description="copy all required class files to out directory">
+    <copy todir="./out/production/HelloVertX">
+      <fileset dir="./src">
+        <type type="file"/>
+        <exclude name="**/*.java"/>
+        <exclude name="**/*.js"/>
+      </fileset>
+    </copy>
+  </target>
+
+</project>
