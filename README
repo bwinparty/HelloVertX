@@ -1,0 +1,10 @@
+HelloVertX - a template project for vert.x
+
+requirements:
+* get the latest vert.x distribution from http://vertx.io/downloads.html
+* IntelliJ IDEA
+
+building and running:
+* unzip to the vertx distribution to the "vert.x" directory in your project root
+* open the project with your intellij idea
+* run the project with the "run configurtion" -> "startvertx"
