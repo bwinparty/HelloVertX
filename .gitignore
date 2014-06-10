@@ -1,3 +1,5 @@
 /out/
 /.idea/workspace.xml
+!/vert.x
 /vert.x/*
+!/vert.x/README
